@@ -1,0 +1,8 @@
+N=input("Enter the article")
+N=N.replace("an"," ")
+N=N.replace("An"," ")
+N=N.replace("The"," ")
+N=N.replace("the"," ")
+N=N.replace("a"," ")
+N=N.replace("A"," ")
+print(N)

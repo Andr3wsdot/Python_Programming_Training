@@ -1,0 +1,5 @@
+pass1=input("Enter the String ")
+pass1=pass1.replace('A','a')
+pass1=pass1.replace('@','#')
+pass1=pass1.replace('1','2')
+print(pass1)
